@@ -2,33 +2,11 @@
 
 A responsive multi-step form challenge from [Frontend Mentor](https://www.frontendmentor.io). This project demonstrates form validation, step-based navigation, dynamic styling based on form state, and clean, accessible design.
 
-![Design preview](./previewjpg)
+![Design preview](previewjpg)
 
 ## 📌 Live Preview
 
 👉 [View Site Live](https://notorious-code.github.io/multi-step-form-main/))
-
----
-
-## 🧠 Features
-
-- Multi-step form interface (4 steps: Your Info → Select Plan → Add-ons → Summary)
-- Real-time client-side validation
-- Dynamic error messages and UI feedback
-- Toggle switch for monthly/yearly pricing
-- Responsive and accessible UI
-- Clean code using semantic HTML, CSS Flexbox/Grid, and Vanilla JavaScript
-
----
-
-## 🛠️ Built With
-
-- Semantic **HTML5** markup
-- **CSS** custom properties (variables)
-- **Flexbox** for layout
-- **CSS Grid** for structure
-- **Mobile-first** responsive workflow
-- **Vanilla JavaScript** (ES6+)
 
 ---
 
@@ -52,24 +30,7 @@ A responsive multi-step form challenge from [Frontend Mentor](https://www.fronte
 - Structuring code for better readability and maintainability
 
 ---
-
-## 🔗 Useful Resources
-
-- [Frontend Mentor Challenge Page](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
-- [CSS-Tricks: Form Validation UX](https://css-tricks.com/form-validation-part-1-constraint-validation/)
-- [MDN Web Docs – JavaScript Form Validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-
-### Step 1 – Your Info  
-<img src="./desktop-design-step-1.jpg" alt="Step 1 Design" width="600"/>
-
-### Step 1 – Validation Active  
-<img src="./active-states-step-1.jpg" alt="Step 1 Error State" width="600"/>
-
-### Step 2 – Select Plan  
-<img src="./active-states-step-2.jpg" alt="Step 2 Active" width="600"/>
-
----
 👤 Author
 GitHub – @notorious-code
 
-Frontend Mentor – Zura Vepkhvadze
+Frontend Mentor – @Zura Vepkhvadze
