@@ -2,7 +2,7 @@
 
 A responsive multi-step form challenge from [Frontend Mentor](https://www.frontendmentor.io). This project demonstrates form validation, step-based navigation, dynamic styling based on form state, and clean, accessible design.
 
-![Design preview](previewjpg)
+![Design preview](./previewjpg)
 
 ## 📌 Live Preview
 
@@ -30,7 +30,8 @@ A responsive multi-step form challenge from [Frontend Mentor](https://www.fronte
 - Structuring code for better readability and maintainability
 
 ---
-👤 Author
-GitHub – @notorious-code
 
-Frontend Mentor – @Zura Vepkhvadze
+## ✍️ Author
+
+- GitHub: [@notorious-code](https://github.com/notorious-code)
+- Live Site: [interactive-card-details-form](https://notorious-code.github.io/multi-step-form-main/)
