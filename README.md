@@ -2,11 +2,11 @@
 
 A responsive multi-step form challenge from [Frontend Mentor](https://www.frontendmentor.io). This project demonstrates form validation, step-based navigation, dynamic styling based on form state, and clean, accessible design.
 
-![Design preview](./desktop-design-step-1.jpg)
+![Design preview](./previewjpg)
 
 ## 📌 Live Preview
 
-👉 [View Site Live](https://your-username.github.io/your-repo-name)
+👉 [View Site Live](https://notorious-code.github.io/multi-step-form-main/))
 
 ---
 
@@ -59,10 +59,6 @@ A responsive multi-step form challenge from [Frontend Mentor](https://www.fronte
 - [CSS-Tricks: Form Validation UX](https://css-tricks.com/form-validation-part-1-constraint-validation/)
 - [MDN Web Docs – JavaScript Form Validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 
----
-
-## 📸 Screenshots
-
 ### Step 1 – Your Info  
 <img src="./desktop-design-step-1.jpg" alt="Step 1 Design" width="600"/>
 
@@ -73,10 +69,7 @@ A responsive multi-step form challenge from [Frontend Mentor](https://www.fronte
 <img src="./active-states-step-2.jpg" alt="Step 2 Active" width="600"/>
 
 ---
+👤 Author
+GitHub – @notorious-code
 
-## 🧪 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+Frontend Mentor – Zura Vepkhvadze
