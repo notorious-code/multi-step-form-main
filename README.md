@@ -2,7 +2,7 @@
 
 A responsive multi-step form challenge from [Frontend Mentor](https://www.frontendmentor.io). This project demonstrates form validation, step-based navigation, dynamic styling based on form state, and clean, accessible design.
 
-![Design preview](./previewjpg)
+![Preview](./preview.jpg)
 
 ## 📌 Live Preview
 
